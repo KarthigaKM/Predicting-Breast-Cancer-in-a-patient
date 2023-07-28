@@ -46,9 +46,15 @@
  * The ensemble model combines the predictions of Random Forest and Gradient Boosting classifiers using a majority vote.
 
 ## Acknowledgments
- * The breast cancer dataset used in this project is sourced from (mention the data source if applicable).
+ * The breast cancer dataset used in this project is sourced from GUVI.
  * The app utilizes the Streamlit library for interactive web development.
- * The machine learning models are built using scikit-learn and imbalanced-learn libraries.
+ * Throughout the code, you use various libraries such as sklearn for machine learning algorithms, pandas for data manipulation, seaborn and matplotlib for data 
+   visualization, and streamlit for building the web application.
+
+## Future Enhancements 
+ * Multi-Class Classification: Extend the project to handle multi-class classification if relevant to the application.
+ * Error Analysis: Perform in-depth error analysis to understand the types of errors the model makes and identify areas for improvement.
+ * User Authentication: If sensitive data is involved, consider adding user authentication and access control to protect user privacy.
 
 ## About
  * This project is part of IITM Advanced Programming Professional in Master Data Science Course,GUVI, IIT Madras Research Park
