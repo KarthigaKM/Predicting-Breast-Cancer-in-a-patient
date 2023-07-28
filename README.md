@@ -26,13 +26,13 @@
  * Displays other accuracy metrics, such as accuracy score, confusion matrix, classification report, precision, recall, specificity, and area under the ROC curve (AUC ROC).
 #### confusion matrix
 ![](https://github.com/KarthigaKM/Predicting-Breast-Cancer-in-a-patient/blob/main/images/brea%20cancer%20confusion%20heatmap.png?raw=true) ![](https://github.com/KarthigaKM/Predicting-Breast-Cancer-in-a-patient/blob/main/images/brea%20cancer%20confu%20matrix.PNG?raw=true)
- *As we can see from the table above:
+    *As we can see from the table above:
          * True Positive(TP) : Values that the model predicted as yes(Healthy), and is actually yes(Healthy).
          * True Negative(TN) : Values that the model predicted as not(Cancer), and is actually no(Cancer).
          * False Positive(FP): Values that the model predicted as yes(Healthy), but actually no(Cancer).
          * False Negative(FN): Values that the model predicted as no (Cancer), but actually yes(Healthy).
- * For this dataset, whenever the model is predicting something as yes, it indicates Absence of cancer cells (Healthy) and for cases when the model predicting no; it 
-   indicates existence of cancer cells(Cancer).
+    * For this dataset, whenever the model is predicting something as yes, it indicates Absence of cancer cells (Healthy) and for cases when the model predicting no; it 
+      indicates existence of cancer cells(Cancer).
 ### Ensemble Model Metrics: 
  * Utilizes a combination of Random Forest and Gradient Boosting classifiers to create an ensemble model.
  * Evaluates the ensemble model's performance using accuracy, confusion matrix, and classification report.
