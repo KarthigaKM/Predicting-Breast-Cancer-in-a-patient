@@ -40,6 +40,8 @@
 ## Dataset
  * The breast cancer data is loaded from a CSV file (cancer.csv), containing information on various features of breast tumor cells.
  * The target variable is the diagnosis, with 'M' representing Malignant and 'B' representing Benign.
+ * 'Benign' means that the cells are not harmful or there is no cancer.
+ * 'Malignant' means that the patient has cancer and the cells have a harmful effect
 
 ## Model Building
  * The app uses Support Vector Classifier (SVC) with a Radial Basis Function (RBF) kernel and an ensemble model with Random Forest and Gradient Boosting classifiers.
