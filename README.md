@@ -53,7 +53,7 @@
 ## Acknowledgments
  * The breast cancer dataset used in this project is sourced from GUVI.
  * The app utilizes the Streamlit library for interactive web development.
- * Throughout the code, you use various libraries such as sklearn for machine learning algorithms, pandas for data manipulation, seaborn and matplotlib for data 
+ * Throughout the code, i"ve used various libraries such as sklearn for machine learning algorithms, pandas for data manipulation, seaborn and matplotlib for data 
    visualization, and streamlit for building the web application.
 
 ## Future Enhancements 
