@@ -11,7 +11,7 @@
 ![](https://github.com/KarthigaKM/Predicting-Breast-Cancer-in-a-patient/blob/main/brea%20cancer%201.PNG?raw=true)
  * Provides an overview of breast cancer, its impact, and the importance of early detection and prevention.
 ### Exploratory Data Analysis (EDA): 
-![](https://github.com/KarthigaKM/Predicting-Breast-Cancer-in-a-patient/blob/main/images/Brea%20cancer%20pairplot.png?raw=true) ![](https://github.com/KarthigaKM/Predicting-Breast-Cancer-in-a-patient/blob/main/images/Brea%20cancer%20correla.png?raw=true)
+![](https://github.com/KarthigaKM/Predicting-Breast-Cancer-in-a-patient/blob/main/images/pairplot.png?raw=true) ![](https://github.com/KarthigaKM/Predicting-Breast-Cancer-in-a-patient/blob/main/images/Brea%20cancer%20correla.png?raw=true)
  * Visualizes the dataset, displaying pair plots and distribution of diagnoses (Malignant and Benign). Also, shows a heatmap of feature correlations.
 ### Data Preprocessing:
 ![](https://github.com/KarthigaKM/Predicting-Breast-Cancer-in-a-patient/blob/main/images/brea%20cancer%20piechart.png?raw=true)
@@ -20,7 +20,7 @@
 ![](https://github.com/KarthigaKM/Predicting-Breast-Cancer-in-a-patient/blob/main/images/brea%20cnacer%20val%20curve.png?raw=true)
  * Evaluates the model's performance using the validation curve for the Support Vector Classifier (SVC) with Radial Basis Function (RBF) kernel. Helps identify underfitting and overfitting.
 ### Learning Curve:
-![](https://github.com/KarthigaKM/Predicting-Breast-Cancer-in-a-patient/blob/main/brae%20cnacer%20learn%20curve.png?raw=true)
+![](https://github.com/KarthigaKM/Predicting-Breast-Cancer-in-a-patient/blob/main/images/brae%20cnacer%20learn%20curve.png?raw=true)
  * Analyzes the learning curve of the model, showing the training and validation scores for different training set sizes.
 ### Other Metrics: 
  * Displays other accuracy metrics, such as accuracy score, confusion matrix, classification report, precision, recall, specificity, and area under the ROC curve (AUC ROC).
